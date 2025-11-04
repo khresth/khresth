@@ -15,7 +15,7 @@ jobs:
           filename: metrics-classic.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: khresth
-          base: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
