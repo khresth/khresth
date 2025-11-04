@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm **Kshitij**
+# Hi, I'm **khresth**
 
 ![GitHub Metrics – All Core](metrics-classic.svg)
 
